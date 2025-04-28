@@ -1,4 +1,4 @@
-# Data Engineer Take-Home Challenge: Mini ETL Pipeline
+# Data Engineer Mini ETL Pipeline
 
 ---
 
